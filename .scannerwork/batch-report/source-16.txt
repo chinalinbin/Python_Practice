@@ -1,0 +1,35 @@
+# -*- coding:utf-8 -*-
+## ********************************** 第一步：抓取该平台二手车的所有品牌 **********************************
+# 导入第三方包
+import requests
+import bs4
+from bs4 import BeautifulSoup
+import time
+from fake_useragent import UserAgent
+
+# 设置伪头
+ua = UserAgent()
+headers = {'Accept':'*/*',
+            'Accept-Encoding':'gzip, deflate, br',
+            'Accept-Language':'zh-CN,zh;q=0.8',
+            'Connection':'keep-alive',
+            'User-Agent': ua.random
+}
+
+# 二手车主页链接
+url = 'http://suzhou.taoche.com/all/'
+
+# 发送抓取链接的请求并进一步解析
+res = requests.get(url, headers = headers).text
+soup = BeautifulSoup(res, 'html.parser')
+
+# 抓取二手车品牌名称及对应链接
+car_brands = soup.findAll('div', {'class':'brand-name'})
+# 根据HTML的标记搜索指定对象
+car_brands= [j for i in car_brands for j in i]
+brands = [i.text for i in car_brands]
+
+urls = ['http://suzhou.taoche.com' + i['href'] for i in car_brands]
+
+
+## ********************************** 第二步：抓取该平台二手车的目标链接 **********************************

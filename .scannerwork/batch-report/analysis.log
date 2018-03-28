@@ -1,0 +1,147 @@
+Environment variables:
+  - =C:=C:\Users\sks
+  - =D:=D:\Study_Python_Practice
+  - ALLUSERSPROFILE=C:\ProgramData
+  - ANDROID_HOME=E:\Android\Android-SDK
+  - APPDATA=C:\Users\sks\AppData\Roaming
+  - CLASSPATH=.;D:\Program Files\Java\jdk1.8.0_45\lib\dt.jar;D:\Program Files\Java\jdk1.8.0_45\lib\tools.jar;
+  - COMMPath=C:\Program Files\Lenovo\Communications Utility
+  - COMPUTERNAME=SKS-PC
+  - ComSpec=C:\Windows\system32\cmd.exe
+  - CommonProgramFiles=C:\Program Files\Common Files
+  - CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+  - CommonProgramW6432=C:\Program Files\Common Files
+  - ERROR_CODE=0
+  - FP_NO_HOST_CHECK=NO
+  - HOMEDRIVE=C:
+  - HOMEPATH=\Users\sks
+  - JAVA_EXEC="D:\Program Files\Sonar-scanner\sonar-scanner-3.0.3.778\bin\..\jre\bin\java.exe"
+  - JAVA_HOME=D:\Program Files\Sonar-scanner\sonar-scanner-3.0.3.778\bin\..\jre
+  - JMETER_HOME=D:\apache-jmeter-2.13
+  - LOCALAPPDATA=C:\Users\sks\AppData\Local
+  - LOGONSERVER=\\SKS-PC
+  - MAVEN_HOME=D:\apache-maven-3.3.9
+  - MOZ_PLUGIN_PATH=D:\Program Files (x86)\Foxit Software\Foxit Reader\plugins\
+  - NUMBER_OF_PROCESSORS=4
+  - OS=Windows_NT
+  - PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+  - PROCESSOR_ARCHITECTURE=AMD64
+  - PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 58 Stepping 9, GenuineIntel
+  - PROCESSOR_LEVEL=6
+  - PROCESSOR_REVISION=3a09
+  - PROJECT_HOME=D:\Study_Python_Practice
+  - PROMPT=$P$G
+  - PSModulePath=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+  - PUBLIC=C:\Users\Public
+  - Path=D:\Program Files\ImageMagick-6.9.8-Q8;D:\Program Files\Python 3.5\Scripts\;D:\Program Files\Python 3.5\;D:\Program Files\wkhtmltopdf\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\ProgramData\Oracle\Java\javapath;D:\Program Files\Java\jdk1.8.0_45\bin;D:\Program Files\Java\jdk1.8.0_45\jre\bin;D:\apache-maven-3.3.9\bin;E:\Android\Android-SDK\tools;E:\Android\Android-SDK\platform-tools;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;D:\Program Files\Git\cmd;C:\Chromedriver;D:\Program Files\CMake\bin;D:\Program Files\nodejs\;D:\Program Files (x86)\Appium\node_modules\.bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Windows\system32;C:\Windows;C:\Windows\system32\wbem;D:\Program Files\TortoiseGit\bin;D:\Program Files\Python 3.5\Lib\site-packages\django;D:\Program Files\Python 3.5\Scripts;%SONAR_HOME%\bin;D:\Program Files\Sonar-scanner\sonar-scanner-3.0.3.778\bin;;C:\Windows\system32;C:\Users\sks\AppData\Roaming\npm
+  - ProgramData=C:\ProgramData
+  - ProgramFiles=C:\Program Files
+  - ProgramFiles(x86)=C:\Program Files (x86)
+  - ProgramW6432=C:\Program Files
+  - SESSIONNAME=Console
+  - SONARQUBE_HOME=D:\Program Files\Sonarqube\sonarqube-6.5
+  - SONAR_SCANNER_HOME=D:\Program Files\Sonar-scanner\sonar-scanner-3.0.3.778\bin\..
+  - SystemDrive=C:
+  - SystemRoot=C:\Windows
+  - TEMP=C:\Users\sks\AppData\Local\Temp
+  - TMP=C:\Users\sks\AppData\Local\Temp
+  - TSMPATH=C:\Program Files\ThinkPad\UltraNav Utility
+  - USERDOMAIN=sks-PC
+  - USERNAME=sks
+  - USERPROFILE=C:\Users\sks
+  - VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\
+  - asl.log=Destination=file
+  - configsetroot=C:\Windows\ConfigSetRoot
+  - scriptdir=D:\Program Files\Sonar-scanner\sonar-scanner-3.0.3.778\bin
+  - use_embedded_jre=true
+  - windir=C:\Windows
+  - windows_tracing_flags=3
+  - windows_tracing_logfile=C:\BVTBin\Tests\installpackage\csilogfile.log
+System properties:
+  - awt.toolkit=sun.awt.windows.WToolkit
+  - file.encoding=GBK
+  - file.encoding.pkg=sun.io
+  - file.separator=\
+  - java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+  - java.awt.headless=true
+  - java.awt.printerjob=sun.awt.windows.WPrinterJob
+  - java.class.path=D:\Program Files\Sonar-scanner\sonar-scanner-3.0.3.778\bin\..\lib\sonar-scanner-cli-3.0.3.778.jar
+  - java.class.version=52.0
+  - java.endorsed.dirs=D:\Program Files\Sonar-scanner\sonar-scanner-3.0.3.778\jre\lib\endorsed
+  - java.ext.dirs=D:\Program Files\Sonar-scanner\sonar-scanner-3.0.3.778\jre\lib\ext;C:\Windows\Sun\Java\lib\ext
+  - java.home=D:\Program Files\Sonar-scanner\sonar-scanner-3.0.3.778\jre
+  - java.io.tmpdir=C:\Users\sks\AppData\Local\Temp\
+  - java.library.path=D:\Program Files\Sonar-scanner\sonar-scanner-3.0.3.778\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\Program Files\ImageMagick-6.9.8-Q8;D:\Program Files\Python 3.5\Scripts\;D:\Program Files\Python 3.5\;D:\Program Files\wkhtmltopdf\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\ProgramData\Oracle\Java\javapath;D:\Program Files\Java\jdk1.8.0_45\bin;D:\Program Files\Java\jdk1.8.0_45\jre\bin;D:\apache-maven-3.3.9\bin;E:\Android\Android-SDK\tools;E:\Android\Android-SDK\platform-tools;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;D:\Program Files\Git\cmd;C:\Chromedriver;D:\Program Files\CMake\bin;D:\Program Files\nodejs\;D:\Program Files (x86)\Appium\node_modules\.bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Windows\system32;C:\Windows;C:\Windows\system32\wbem;D:\Program Files\TortoiseGit\bin;D:\Program Files\Python 3.5\Lib\site-packages\django;D:\Program Files\Python 3.5\Scripts;%SONAR_HOME%\bin;D:\Program Files\Sonar-scanner\sonar-scanner-3.0.3.778\bin;;C:\Windows\system32;C:\Users\sks\AppData\Roaming\npm;.
+  - java.runtime.name=Java(TM) SE Runtime Environment
+  - java.runtime.version=1.8.0_121-b13
+  - java.specification.name=Java Platform API Specification
+  - java.specification.vendor=Oracle Corporation
+  - java.specification.version=1.8
+  - java.vendor=Oracle Corporation
+  - java.vendor.url=http://java.oracle.com/
+  - java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+  - java.version=1.8.0_121
+  - java.vm.info=mixed mode
+  - java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+  - java.vm.specification.name=Java Virtual Machine Specification
+  - java.vm.specification.vendor=Oracle Corporation
+  - java.vm.specification.version=1.8
+  - java.vm.vendor=Oracle Corporation
+  - java.vm.version=25.121-b13
+  - line.separator=
+
+  - os.arch=amd64
+  - os.name=Windows 7
+  - os.version=6.1
+  - path.separator=;
+  - project.home=D:\Study_Python_Practice
+  - scanner.home=D:\Program Files\Sonar-scanner\sonar-scanner-3.0.3.778\bin\..
+  - sun.arch.data.model=64
+  - sun.boot.class.path=D:\Program Files\Sonar-scanner\sonar-scanner-3.0.3.778\jre\lib\resources.jar;D:\Program Files\Sonar-scanner\sonar-scanner-3.0.3.778\jre\lib\rt.jar;D:\Program Files\Sonar-scanner\sonar-scanner-3.0.3.778\jre\lib\sunrsasign.jar;D:\Program Files\Sonar-scanner\sonar-scanner-3.0.3.778\jre\lib\jsse.jar;D:\Program Files\Sonar-scanner\sonar-scanner-3.0.3.778\jre\lib\jce.jar;D:\Program Files\Sonar-scanner\sonar-scanner-3.0.3.778\jre\lib\charsets.jar;D:\Program Files\Sonar-scanner\sonar-scanner-3.0.3.778\jre\lib\jfr.jar;D:\Program Files\Sonar-scanner\sonar-scanner-3.0.3.778\jre\classes
+  - sun.boot.library.path=D:\Program Files\Sonar-scanner\sonar-scanner-3.0.3.778\jre\bin
+  - sun.cpu.endian=little
+  - sun.cpu.isalist=amd64
+  - sun.desktop=windows
+  - sun.io.unicode.encoding=UnicodeLittle
+  - sun.java.command=org.sonarsource.scanner.cli.Main -X
+  - sun.java.launcher=SUN_STANDARD
+  - sun.jnu.encoding=GBK
+  - sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+  - sun.os.patch.level=Service Pack 1
+  - sun.stderr.encoding=ms936
+  - sun.stdout.encoding=ms936
+  - user.country=CN
+  - user.dir=D:\Study_Python_Practice
+  - user.home=C:\Users\sks
+  - user.language=zh
+  - user.name=sks
+  - user.script=
+  - user.timezone=Asia/Shanghai
+  - user.variant=
+SonarQube plugins:
+  - C# 5.10.1.1411 (csharp)
+  - SonarPython 1.8.0.1496 (python)
+  - SonarJava 4.12.0.11033 (java)
+  - Chinese Pack 1.17 (l10nzh)
+  - Flex 2.3 (flex)
+  - Git 1.2 (scmgit)
+  - SonarXML 1.4.3.1027 (xml)
+  - SonarPHP 2.10.0.2087 (php)
+  - SVN 1.5.0.715 (scmsvn)
+  - SonarJS 3.1.1.5128 (javascript)
+Global properties:
+  - sonar.core.id=AV8ZF8M7IGjbtkDEZdVO
+  - sonar.core.startTime=2017-10-14T12:33:04+0800
+Settings for module: Study_Python_Practice
+  - sonar.host.url=http://localhost:9000/
+  - sonar.jdbc.password=******
+  - sonar.jdbc.url=jdbc:mysql://localhost:3306/sonarqube?useUnicode=true&characterEncoding=utf8&rewriteBatchedStatements=true&useConfigs=maxPerformance&useSSL=false
+  - sonar.jdbc.username=root
+  - sonar.projectBaseDir=D:\Study_Python_Practice
+  - sonar.projectKey=Study_Python_Practice
+  - sonar.projectName=Study_Python_Practice
+  - sonar.projectVersion=1.0
+  - sonar.sourceEncoding=UTF-8
+  - sonar.sources=D:/Study_Python_Practice
+  - sonar.verbose=true
+  - sonar.working.directory=D:\Study_Python_Practice\.scannerwork

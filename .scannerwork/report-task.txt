@@ -1,0 +1,6 @@
+projectKey=Study_Python_Practice
+serverUrl=http://localhost:9000
+serverVersion=6.5.0.27846
+dashboardUrl=http://localhost:9000/dashboard/index/Study_Python_Practice
+ceTaskId=AV8ZxdaMojGYmsCfZ32j
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV8ZxdaMojGYmsCfZ32j
